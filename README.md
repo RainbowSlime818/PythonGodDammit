@@ -1,3 +1,3 @@
 # PythonGodDammit
 
-#This is a test of phython mf's!
+This is a test of phython!
