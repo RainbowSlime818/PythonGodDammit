@@ -1,3 +1,3 @@
 # PythonGodDammit
 
-This is a test of phython!
+This is a test of python!
